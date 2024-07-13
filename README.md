@@ -1,4 +1,4 @@
-![logo](https://github.com/M-Jalal-Khan/M-Jalal-Khan/blob/main/bi-dashboard.gif)
+![logo](https://github.com/M-Jalal-Khan/M-Jalal-Khan/blob/main/Navy%20Blue%20Futuristic%20Virtual%20Technology%20Banner%20(1).png)
 <h1 align="center">Hi 👋, I'm Muhammad Jalal Khan</h1>
 <h3 align="center">A Google Certified Data Analyst skilled in Python, R, SQL, Excel, Tableau, and Power BI.</h3>
 
