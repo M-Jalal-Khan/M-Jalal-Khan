@@ -22,10 +22,18 @@
 
 💬 **Ask me about:** Data Analytics | BI Solutions | Machine Learning | Visualization
 
-📫 **Reach me at:** m.jalalkhanktk@gmail.com
-
 📄 **Explore My Experiences:**  
 👉 [View My CV](https://drive.google.com/file/d/1VEqJGt1017UOM5EaU7tWmKzbZWlSmyLo/view?usp=sharing)
+
+---
+
+## 📬 Connect with Me
+
+- 📧 **Email:** m.jalalkhanktk@gmail.com
+- 🔗 **LinkedIn:** [linkedin.com/in/mjalalkhan](https://www.linkedin.com/in/mjalalkhan/)
+- 🌐 **Portfolio:** [Maven Analytics Profile](https://mavenanalytics.io/profile/98217380-00f1-70b8-bb79-ce8c2b065fcf)
+- 📷 **Instagram:** [@jalalkhan134](https://www.instagram.com/jalalkhan134?igsh=cHY4bGN5c3Fkdmdx)
+- 📘 **Facebook:** [jalal.khan.khattak.956143](https://www.facebook.com/jalal.khan.khattak.956143)
 
 ---
 
