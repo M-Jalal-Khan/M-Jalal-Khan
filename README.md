@@ -29,11 +29,14 @@
 
 ## 📬 Connect with Me
 
-- 📧 **Email:** m.jalalkhanktk@gmail.com
-- 🔗 **LinkedIn:** [linkedin.com/in/mjalalkhan](https://www.linkedin.com/in/mjalalkhan/)
-- 🌐 **Portfolio:** [Maven Analytics Profile](https://mavenanalytics.io/profile/98217380-00f1-70b8-bb79-ce8c2b065fcf)
-- 📷 **Instagram:** [@jalalkhan134](https://www.instagram.com/jalalkhan134?igsh=cHY4bGN5c3Fkdmdx)
-- 📘 **Facebook:** [jalal.khan.khattak.956143](https://www.facebook.com/jalal.khan.khattak.956143)
+<p align="center">
+  <a href="mailto:m.jalalkhanktk@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-Email-red?logo=gmail" /></a>
+  <a href="https://www.linkedin.com/in/mjalalkhan/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin" /></a>
+  <a href="https://mavenanalytics.io/profile/98217380-00f1-70b8-bb79-ce8c2b065fcf" target="_blank"><img src="https://img.shields.io/badge/Portfolio-Website-green?logo=google-chrome" /></a>
+  <a href="https://www.instagram.com/jalalkhan134?igsh=cHY4bGN5c3Fkdmdx" target="_blank"><img src="https://img.shields.io/badge/Instagram-Profile-pink?logo=instagram" /></a>
+  <a href="https://www.facebook.com/jalal.khan.khattak.956143" target="_blank"><img src="https://img.shields.io/badge/Facebook-Profile-1877F2?logo=facebook" /></a>
+</p>
+
 
 ---
 
