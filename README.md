@@ -27,7 +27,7 @@
 
 ---
 
-##  Connect with Me
+##  Connect with Me:
 
 <p align="center">
   <a href="mailto:m.jalalkhanktk@gmail.com" target="_blank">
@@ -50,7 +50,7 @@
 
 ---
 
-##  Languages & Tools
+##  Languages & Tools:
 
 <p align="center">
   <a href="https://www.python.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40"/></a>
