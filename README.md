@@ -27,7 +27,7 @@
 
 ---
 
-##  Connect with Me:
+## 📬 Connect with Me
 
 <p align="center">
   <a href="mailto:m.jalalkhanktk@gmail.com" target="_blank">
@@ -36,7 +36,7 @@
   <a href="https://www.linkedin.com/in/mjalalkhan/" target="_blank">
     <img src="https://img.icons8.com/color/48/000000/linkedin.png" alt="LinkedIn" width="40" height="40"/>
   </a>
-  <a href="https://kaggle.com/YourKaggleProfileLinkHere" target="_blank">
+  <a href="https://www.kaggle.com/muhammadjalalkhanktk" target="_blank">
     <img src="https://img.icons8.com/color/48/000000/kaggle.png" alt="Kaggle" width="40" height="40"/>
   </a>
   <a href="https://www.instagram.com/jalalkhan134?igsh=cHY4bGN5c3Fkdmdx" target="_blank">
@@ -46,6 +46,7 @@
     <img src="https://img.icons8.com/color/48/000000/facebook-new.png" alt="Facebook" width="40" height="40"/>
   </a>
 </p>
+
 
 
 ---
