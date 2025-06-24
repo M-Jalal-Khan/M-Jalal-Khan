@@ -1,8 +1,5 @@
-<p align="center">
-  <img src="https://your-banner-link" alt="Professional Banner" />
-</p>
-
-<h1 align="center">Muhammad Jalal Khan</h1>
+<h1 align="center">Hey, I am Muhammad Jalal Khan</h1>
+<h3 align="center">Data Analyst | BI Expert</h3>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/mjalalkhan/">
@@ -18,19 +15,21 @@
 
 ---
 
-🌱 I’m currently working with **Python, SQL, Power BI, Tableau, Azure, AWS**
+🌱 **Currently working with:** Python, SQL, Power BI, Tableau, Azure, AWS
 
-👨‍💻 All of my projects & case studies are available on my [Maven Portfolio](https://mavenanalytics.io/profile/98217380-00f1-70b8-bb79-ce8c2b065fcf)
+👨‍💻 **My Projects & Case Studies:**  
+👉 [Maven Analytics Portfolio](https://mavenanalytics.io/profile/98217380-00f1-70b8-bb79-ce8c2b065fcf)
 
-💬 Ask me about **Data Analytics, BI Solutions, Machine Learning, Visualization**
+💬 **Ask me about:** Data Analytics | BI Solutions | Machine Learning | Visualization
 
-📫 How to reach me: **m.jalalkhanktk@gmail.com**
+📫 **Reach me at:** m.jalalkhanktk@gmail.com
 
-📄 Know about my experience: [My CV](https://drive.google.com/file/d/1VEqJGt1017UOM5EaU7tWmKzbZWlSmyLo/view?usp=sharing)
+📄 **Explore My Experiences:**  
+👉 [View My CV](https://drive.google.com/file/d/1VEqJGt1017UOM5EaU7tWmKzbZWlSmyLo/view?usp=sharing)
 
 ---
 
-### 🛠️ Languages & Tools
+## 🛠️ Languages & Tools
 
 <p align="center">
   <a href="https://www.python.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40"/></a>
@@ -46,5 +45,3 @@
   <a href="https://code.visualstudio.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" width="40" height="40"/></a>
   <a href="https://www.linux.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="40" height="40"/></a>
 </p>
-
----
