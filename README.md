@@ -31,21 +31,22 @@
 
 <p align="center">
   <a href="mailto:m.jalalkhanktk@gmail.com" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/gmail.svg" alt="Gmail" width="40" height="40"/>
+    <img src="https://img.icons8.com/color/48/000000/gmail--v1.png" alt="Gmail" width="40" height="40"/>
   </a>
   <a href="https://www.linkedin.com/in/mjalalkhan/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/linkedin.svg" alt="LinkedIn" width="40" height="40"/>
+    <img src="https://img.icons8.com/color/48/000000/linkedin.png" alt="LinkedIn" width="40" height="40"/>
   </a>
-  <a href="https://mavenanalytics.io/profile/98217380-00f1-70b8-bb79-ce8c2b065fcf" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/googlechrome.svg" alt="Portfolio" width="40" height="40"/>
+  <a href="https://kaggle.com/YourKaggleProfileLinkHere" target="_blank">
+    <img src="https://img.icons8.com/color/48/000000/kaggle.png" alt="Kaggle" width="40" height="40"/>
   </a>
   <a href="https://www.instagram.com/jalalkhan134?igsh=cHY4bGN5c3Fkdmdx" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/instagram.svg" alt="Instagram" width="40" height="40"/>
+    <img src="https://img.icons8.com/color/48/000000/instagram-new--v1.png" alt="Instagram" width="40" height="40"/>
   </a>
   <a href="https://www.facebook.com/jalal.khan.khattak.956143" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/facebook.svg" alt="Facebook" width="40" height="40"/>
+    <img src="https://img.icons8.com/color/48/000000/facebook-new.png" alt="Facebook" width="40" height="40"/>
   </a>
 </p>
+
 
 ---
 
