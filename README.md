@@ -37,7 +37,7 @@
     <img src="https://img.icons8.com/color/48/000000/linkedin.png" alt="LinkedIn" width="40" height="40"/>
   </a>
   <a href="https://www.kaggle.com/muhammadjalalkhanktk" target="_blank">
-    <img src="https://img.icons8.com/color/48/000000/kaggle.png" alt="Kaggle" width="40" height="40"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/7/7c/Kaggle_logo.png" alt="Kaggle" width="60" height="40"/>
   </a>
   <a href="https://www.instagram.com/jalalkhan134?igsh=cHY4bGN5c3Fkdmdx" target="_blank">
     <img src="https://img.icons8.com/color/48/000000/instagram-new--v1.png" alt="Instagram" width="40" height="40"/>
@@ -46,8 +46,6 @@
     <img src="https://img.icons8.com/color/48/000000/facebook-new.png" alt="Facebook" width="40" height="40"/>
   </a>
 </p>
-
-
 
 ---
 
