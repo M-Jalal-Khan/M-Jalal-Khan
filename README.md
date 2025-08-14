@@ -15,11 +15,11 @@
 
 🌱 Currently working with: Python, SQL, Power BI, Tableau, Azure, AWS
 
-👨‍💻 My Projects & Case Studies: 👉 My Portfolio Website
+👨‍💻 My Projects & Case Studies: 👉 <a href="https://jalaldataworks.netlify.app/" target="_blank">Visit My Portfolio Website</a>
 
 💬 Ask me about: Data Analytics | BI Solutions | Machine Learning | Visualization
 
-📄 Explore My Experiences: 👉 View My CV
+📄 Explore My Experiences: 👉 <a href="https://drive.google.com/file/d/1TYeNupEvbf-mHJmSWyu1Q-26hpZtM9tp/view?usp=sharing" target="_blank" rel="noopener noreferrer">Explore My CV</a>
 
 📬 Connect with Me
 <p align="center">
